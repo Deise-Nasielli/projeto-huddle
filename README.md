@@ -1,35 +1,41 @@
-# Página de destino do Huddle com uma única seção introdutória.
+
+
+# Projeto Huddle - Frontend Mentor Challenge
+
+https://deise-nasielli.github.io/projeto-huddle/
+
+## 📌 Sobre o Projeto
+
+Este projeto foi desenvolvido como parte de um desafio da plataforma **Frontend Mentor**, com o objetivo de praticar a construção de uma **landing page moderna, responsiva e acessível**.
+
+A proposta foi recriar um layout de duas colunas com foco em design limpo, tipografia clara e usabilidade, utilizando apenas **HTML5** e **CSS3**.
+
+## 🚀 Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- Flexbox
+- Media Queries
+
+## 🎯 Objetivos e Aprendizados
+
+- Aplicar **boas práticas de HTML semântico**;
+- Criar um layout **100% responsivo**;
+- Desenvolver a estrutura visual com foco em **experiência do usuário (UX)**;
+- Reforçar o uso de **Flexbox** e **Media Queries** em contextos reais.
+
+## 🔗 Link para o projeto no ar
+
+Acesse a versão online aqui:  
+[https://deise-nasielli.github.io/projeto-huddle](https://deise-nasielli.github.io/projeto-huddle)
+
+## 📸 Captura de tela
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a20df34c-2ee3-4276-8ec8-60ed8d8e0b55"/>
 </div>
 
-###### Este projeto foi projetado para ser responsivo e funcionar bem em diferentes dispositivos, incluindo desktops, tablets e dispositivos móveis. Utilizamos 
-consultas de mídia para adaptar o layout e a imagem de fundo conforme a largura da tela.
+## 👩‍💻 Desenvolvedora
 
-
-### 🧱 Estrutura do Projeto
-index.html: Arquivo HTML principal.
-style.css: Arquivo CSS com os estilos da página.
-
-### ⚔️ Tecnologias Utilizadas.
-- HTML5
-- CSS3 (Flexbox, Media Queries)
-  
-### 🧾 Descrição
-A responsividade do layout é alcançada usando Flexbox e consultas de mídia. O uso de @media permite que o layout se adapte a diferentes larguras de tela, garantindo
-uma experiência de usuário consistente em todos os dispositivos.
-
-Para telas com largura máxima de 1024px, a imagem de fundo é trocada para uma versão otimizada para dispositivos móveis.
-
-O layout do conteúdo principal é ajustado para se alinhar verticalmente em dispositivos menores.
-
-### 👆 Como Usar
-Clone este repositório.
-
-Abra o arquivo index.htmL em seu navegador preferido para visualizar o layout responsivo.
-
-Ajuste as consultas de mídia conforme necessário para adaptar o layout a outros tamanhos de tela.
-
-### 🫱🏼‍🫲🏼Contribuição.
-Sinta-se à vontade para enviar pull requests ou abrir issues para sugestões de melhorias e correções.
+Feito com carinho por **Deise Nasielli** 💜  
+[LinkedIn](https://linkedin.com/in/deisenasielli) | [GitHub](https://github.com/Deise-Nasielli)
